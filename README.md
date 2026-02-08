@@ -1,3 +1,4 @@
+```markdown
 # Public Boei Chatbot Template Case Study
 A practical case study and reusable template for building a basic business chatbot with strong guardrails, clean knowledge boundaries, and predictable output.
 
