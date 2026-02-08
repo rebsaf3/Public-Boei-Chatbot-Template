@@ -1,0 +1,7 @@
+Recommended advanced settings
+
+1 Model GPT 5
+2 Temperature 0 1 to 0 2
+3 Show thinking steps off
+4 Show source citations on
+5 Show feedback buttons on

@@ -1,0 +1,4 @@
+Assets note
+
+Screenshots are excluded from the sanitized package to avoid leaking client identifiers.
+If you need screenshots for internal training, store them privately and do not publish them.
